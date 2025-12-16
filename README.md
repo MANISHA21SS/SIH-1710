@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 16/12/2025
+## Register Number: 212223220055
+## Name: Manisha selvakumari.S.S.
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -12,15 +12,46 @@ Ministry of Railway
 
 ## Idea
 
+Digital Kiosks: Touch-Screen Interfaces: Easy-to-use maps and search functionality at station entrances and key points.
+
+QR Code Integration: Passengers can scan a QR to continue navigation on their phones.
+
+Accessibility Features: Large buttons, voice search, and audio instructions for visually impaired or elderly users.
 
 ## Proposed Solution / Architecture Diagram
+
+<img width="855" height="630" alt="image" src="https://github.com/user-attachments/assets/a1ba444c-22f2-4c38-b899-3f60bc24220b" />
 
 
 ## Use Cases
 
+<img width="887" height="600" alt="image" src="https://github.com/user-attachments/assets/74a3c6be-23e4-460e-9534-4887a3480630" />
 
-## Technology Stack
+## Technology Stack:
 
+Digital Kiosks (Touch Interfaces)
+
+HTML5, CSS3, JavaScript
+
+React.js / Vue.js – For interactive UI
+
+Electron / Progressive Web App (PWA) – For offline support and desktop-like UI
 
 ## Dependencies
+
+react-router-dom – Page navigation
+
+leaflet / mapbox-gl-js – Web map rendering
+
+axios – API calls
+
+i18next – Internationalization
+
+howler.js / responsive-voice – Audio output for accessibility
+
+react-voice-recorder – Voice input
+
+chart.js / recharts – For data display
+
+
 
